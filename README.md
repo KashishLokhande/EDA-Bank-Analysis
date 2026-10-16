@@ -2,7 +2,6 @@
 
 An exploratory analysis of bank telemarketing data to understand which clients subscribe to a term deposit, and what the bank can do better in its next campaign. Done in Python with Pandas, NumPy and Matplotlib.
 
-Notebook: [Proj1_EDA_Pandas_Banking (1).ipynb](https://github.com/KashishLokhande/EDA-Bank-Analysis/blob/main/Proj1_EDA_Pandas_Banking%20%281%29.ipynb)
 
 ## Table of Contents
 - [Goals of the Project](#goals-of-the-project)
